@@ -13,6 +13,7 @@ arch_mapping = {
     'x86_64': '(x86_|amd)64',
     'i686': "i\\d86",
     'aarch64': "(arm|aarch)64",
+    'armv6l': "armv6(l)?",
     'armv7l': "arm(v7l)?",
     'powerpc64le': "p(ower)?pc64le",
 }
